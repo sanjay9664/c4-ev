@@ -1,0 +1,57 @@
+#navbar {
+    width: 99%;
+    height: 70px;
+    /* border: 1px solid black; */
+    display: flex;
+    gap: 20px;
+    background-color: antiquewhite;
+}
+
+#news {
+    display: flex;
+    align-items: center;
+}
+
+#search_input {
+    width: 90%;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 15px;
+}
+
+#sidebar {
+    width: 15%;
+    height: 300px;
+    /* border: 1px solid red; */
+    margin-top: 10px;
+    background-color: antiquewhite;
+}
+
+#sidebar h1 {
+    /* display: flex; */
+    margin: 20px;
+}
+
+#sidebar h3 {
+    margin: 20px;
+    border: 1px solid black;
+    width: 60%;
+    background-color: teal;
+    color: white;
+}
+
+#results {
+    width: 80%;
+    height: 1000px;
+    /* border: 1px solid red; */
+    margin-left: 16%;
+    margin-top: -15%;
+}
+
+#results img {
+    border: 1px solid red;
+}
+
+img {
+    width: 20%;
+}
